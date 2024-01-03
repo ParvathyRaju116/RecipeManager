@@ -1,0 +1,1 @@
+export const BASE_URL='https://cook-book-recipe-manager.onrender.com'
